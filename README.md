@@ -1,5 +1,5 @@
 # Yo!
-## I'm a robotics student!
+## I'm a robotics student! 🤖
 ## I'll gradually add more projects when I get better!
 ## Have only worked with websites so far though....so only js, html and css 😅 
 
