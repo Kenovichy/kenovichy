@@ -1,7 +1,7 @@
 # Yo!
 ## I'm a robotics student!
 ## I'll gradually add more projects when I get better!
-## Have only worked with websites so far though....so js 
+## Have only worked with websites so far though....so only js, html and css 😅 
 
 <!--
 **Kenovichy/kenovichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
